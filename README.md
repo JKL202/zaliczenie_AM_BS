@@ -15,7 +15,7 @@ Link do strony: https://jkl202.github.io/zaliczenie_AM_BS/
 <br>
 
 ## Sposób uruchomienia
-- Kliknij [Tutaj](https://jkl202.github.io/zaliczenie_AM_BS/)<br> aby otworzyć i przeglądać stronę!
+- Kliknij [Tutaj](https://jkl202.github.io/zaliczenie_AM_BS/) aby otworzyć i przeglądać stronę!
 
 <br>
 

@@ -3,7 +3,7 @@ Link do strony: https://jkl202.github.io/zaliczenie_AM_BS/
 
 ## Spis treści
 - **[Użyte technologie](#technologie)**<br>
-- **[Sposób uruchomienia](#Sposób uruchomienia)**<br>
+- **[Uruchamianie](#Uruchamianie)**<br>
 - **[Autorzy](#Autorzy)**<br>
 <br>
 

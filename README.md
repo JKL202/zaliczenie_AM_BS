@@ -1,5 +1,4 @@
 Zaliczenie przedmiotu - Zarządzanie projektem wdrożeniowym<br>
-Link do strony: https://jkl202.github.io/zaliczenie_AM_BS/
 
 ## Spis treści
 - **[Użyte technologie](#technologie)**<br>

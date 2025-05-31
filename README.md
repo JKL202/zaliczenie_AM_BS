@@ -1,5 +1,8 @@
 Zaliczenie przedmiotu - Zarządzanie projektem wdrożeniowym<br>
 
+![Bruksela](img/bruksela.jpg)
+
+<img>
 ## Spis treści
 - **[Użyte technologie](#technologie)**<br>
 - **[Uruchamianie](#Uruchamianie)**<br>
